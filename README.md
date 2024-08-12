@@ -149,5 +149,3 @@ During Lucky Mode, the text color turns yellow.
 
 After downloading the latest version, copy the `game_data.pickle` file from the previous version into the extracted folder.
 
-2024-7-19 @waruto
-
